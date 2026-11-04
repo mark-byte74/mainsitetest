@@ -2,11 +2,11 @@
   'use strict';
 
   var CONFIG = {
-    WHATSAPP_NUMBER: "15551234567",
-    EMAIL: "contact@mydomin.com",
-    TURNSTILE_SITE_KEY: "",
-    SITE_DOMAIN: "mydomin.com",
-    FORM_ENDPOINT: ""
+    WHATSAPP_NUMBER: "+447721382912",
+    EMAIL: "contact@menu.codes",
+    TURNSTILE_SITE_KEY: "0x4AAAAAAFzTOiCpVTXQMOY8",
+    SITE_DOMAIN: "menu.codes"
+    FORM_ENDPOINT: "https://script.google.com/macros/s/AKfycbwoKk4eyqZBSSPaDloxh_0alC2M1v7ZInP6I2qVUGbPn62crgXkGp0dW7KFwSnOrFWw/exec"
   };
 
 
